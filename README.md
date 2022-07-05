@@ -3,8 +3,10 @@ AutoHotKey script to automate the import of trades from a MesoSim exported CSV f
 
 ## Links to software
 - [DeltaRay MesoSim](https://deltaray.io/)
-- [AutoHotKey](https://www.autohotkey.com/)
+  - first time customers: use the coupon code of `TD` for a 20% discount
+- [AutoHotKey](https://www.autohotkey.com/) - free software
 - [OptionNet Explorer](https://www.optionnetexplorer.com/)
+  - first time customers: use [this link](https://tdom.to/one) for a 13% discount
 
 ## Support
 [Tutorial video](https://www.youtube.com/watch?v=0WusgaNzpW0)
