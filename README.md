@@ -9,7 +9,7 @@ AutoHotKey script to automate the import of trades from a MesoSim exported CSV f
   - first time customers: use [this link](https://tdom.to/one) for a 13% discount
 
 ## Support
-[Tutorial video](https://www.youtube.com/watch?v=0WusgaNzpW0)
+[Tutorial video](https://www.youtube.com/watch?v=kqCY-KLo_YQ)
 
 ## About
 This script was originally created by Ron Bertino from [Trading Dominion](https://tradingdominion.com)
