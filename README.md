@@ -2,8 +2,8 @@
 AutoHotKey script to automate the import of trades from a MesoSim exported CSV file into OptionNet Explorer
 
 ## Links to software
-- [DeltaRay MesoSim](https://deltaray.io/)
-  - first time customers: use the coupon code of `TD` for a 20% discount
+- [DeltaRay MesoSim](https://tdom.to/mesosim)
+  - first time customers: use the coupon code of `OPCIOK` for a $30 discount from the annual fee
 - [AutoHotKey](https://www.autohotkey.com/) - free software
 - [OptionNet Explorer](https://www.optionnetexplorer.com/)
   - first time customers: use [this link](https://tdom.to/one) for a 13% discount
